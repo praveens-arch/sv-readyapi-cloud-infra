@@ -1,0 +1,12 @@
+{
+  "apiVersion": "v1",
+  "kind": "Namespace",
+  "metadata": {
+    "name": "taas-pt-ns",
+    "labels": {
+      "name": "taas-pt-ns",
+      "product": "taas-pt",
+      "application": "taas"
+    }
+  }
+}
